@@ -1,5 +1,11 @@
 // The Swift Programming Language
 // https://docs.swift.org/swift-book
-struct POC {
-    let version = 1.0
+
+public struct ClassPublic {
+    public let version = 1.0
+}
+
+
+struct NewClass {
+    let teste = "POC testada"
 }
