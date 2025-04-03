@@ -3,6 +3,8 @@
 
 public struct ClassPublic {
     public let version = 1.0
+    
+    public init() {}
 }
 
 
