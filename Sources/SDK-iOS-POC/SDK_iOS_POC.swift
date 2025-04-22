@@ -2,7 +2,7 @@
 // https://docs.swift.org/swift-book
 
 public struct ClassPublic {
-    public let version = 1.5
+    public let version = 2.0
     
     public init() {}
 }
